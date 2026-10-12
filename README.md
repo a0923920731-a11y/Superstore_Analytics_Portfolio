@@ -1,8 +1,7 @@
 Superstore Sales \& Profitability Analysis
 
 
-
-📌 Project Overview
+ Project Overview
 
 
 
@@ -15,10 +14,7 @@ Superstore Sales \& Profitability Analysis
 
 
 ⸻
-
-
-
-🎯 Business Questions
+ Business Questions
 
 
 
@@ -37,10 +33,7 @@ Superstore Sales \& Profitability Analysis
 
 
 ⸻
-
-
-
-🔍 Key Findings
+Key Findings
 
 
 
@@ -139,10 +132,7 @@ Discount	Average Profit
 
 
 ⸻
-
-
-
-📊 Analysis Process
+Analysis Process
 
 
 
@@ -229,10 +219,7 @@ Furniture → Tables → Discount → Product → Transaction
 
 
 ⸻
-
-
-
-💡 Business Recommendations
+Business Recommendations
 
 
 
@@ -273,10 +260,7 @@ Sales → Profit → Profit Margin
 
 
 ⸻
-
-
-
-⚠️ Limitations
+Limitations
 
 
 
@@ -305,10 +289,7 @@ Sales → Profit → Profit Margin
 
 
 ⸻
-
-
-
-🛠️ Tools \& Skills
+Tools \& Skills
 
 
 
@@ -341,10 +322,7 @@ Sales → Profit → Profit Margin
 
 
 ⸻
-
-
-
-📁 Project Structure
+Project Structure
 
 
 
@@ -367,10 +345,7 @@ Note: The original dataset and local SQLite database are not included in the rep
 
 
 ⸻
-
-
-
-📈 Presentation
+ Presentation
 
 
 
@@ -393,10 +368,7 @@ Note: The original dataset and local SQLite database are not included in the rep
 
 
 ⸻
-
-
-
-👤 Project Purpose
+ Project Purpose
 
 
 
