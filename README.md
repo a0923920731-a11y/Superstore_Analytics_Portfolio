@@ -349,8 +349,8 @@ Note: The original dataset and local SQLite database are not included in the rep
 
 
 
-完整分析結果與視覺化成果整理於 PowerPoint 簡報中，包含：
-
+完整分析結果與視覺化成果整理於 PowerPoint 以及Power BI簡報中，包含：
+https://1drv.ms/b/c/e92cfb656ad2575a/IQAzNB5MhvdnSaTF6Pgyu5KyAWgesoKA0XND8vG2bhoIfLg?e=K56Zbo
 
 
 \* Business Questions
